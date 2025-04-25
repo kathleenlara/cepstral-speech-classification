@@ -20,14 +20,9 @@ This project focuses on classifying speech segments by speaker using Linear Pred
 ## 🚀 Methods
 
 - Time series preprocessing and block segmentation  
-- Feature extraction using statistical and shape-based techniques  
-- Classification using traditional ML and deep learning models  
+- Classification using traditional ML models  
 
 ## 📊 Results
 
-Model performance is evaluated using classification accuracy. More details in the [notebooks](./notebooks) folder.
+Model performance is evaluated using classification accuracy.
 
-## 🛠️ Requirements
-
-```bash
-pip install -r requirements.txt
