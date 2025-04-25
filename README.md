@@ -14,9 +14,7 @@ This project focuses on classifying speech segments by speaker using Linear Pred
 - `train.txt` – Time series data for training  
 - `test.txt` – Unlabeled time series data for prediction  
 - `train_block_labels.txt` – Mapping of training blocks to speaker labels  
-- `notebooks/` – Experiments with feature engineering and models  
-- `models/` – Trained models and evaluation scripts  
-
+- `jupyter notebook` – Experiments with feature engineering and models  
 ## 🚀 Methods
 
 - Time series preprocessing and block segmentation  
